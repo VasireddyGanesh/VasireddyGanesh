@@ -15,7 +15,7 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-<code><img height="20" src="https://imgr.search.brave.com/zv3XsQMe_4Crx1XRKIZSjj7Je0MYJ47tjRL_l-D-3Bw/fit/1200/1200/ce/1/aHR0cHM6Ly9tYXJj/YXMtbG9nb3MubmV0/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE5/LzEyL0FuZHJvaWQt/TG9nby5wbmc"></code>
+<code><img height="20" src="https://www.freepnglogos.com/pics/android-logo"></code>
 
 <code><img height="20" src="https://imgr.search.brave.com/3T839D_JDz_YOIsFm1StTKtopHegNBUT3RatUMFj82s/fit/1200/1200/ce/1/aHR0cHM6Ly9zZHRp/bWVzLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxOS8xMC8x/MjAwcHgtS290bGlu/LWxvZ28uc3ZnXy5w/bmc"></code>
 
