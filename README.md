@@ -16,8 +16,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://banner2.cleanpng.com/20180520/shq/kisspng-android-logo-5b01dfc543cb75.2302463715268494772777.jpg"></code>
 <code><img height="20" src="https://banner2.cleanpng.com/20180803/stl/kisspng-mysql-relational-database-management-system-logo-m-mysql-instalaci%C3%B3n-y-creaci%C3%B3n-usuario-atrum-5b649e7b904ab3.946816071533320827591.jpg"></code>
-
-<code><img height="20" src="https://imgr.search.brave.com/ETCmSO2-YpSGjXAMWIW-f6gjnTj0N8SIQgzta7QsWq0/fit/491/497/ce/1/aHR0cDovLzQuYnAu/YmxvZ3Nwb3QuY29t/Ly0tWjQ3QXlnRmdy/by9UZ3Q1Y2h1dWh5/SS9BQUFBQUFBQVkt/Yy9SRjZXemo0dFlu/QS9zMTYwMC9NeXNx/bF9Mb2dvMi5wbmc"></code>
+<code><img height="20" src="https://banner2.cleanpng.com/20171217/bc9/linux-logo-png-5a373aa6928402.9495549215135689346001.jpg"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
