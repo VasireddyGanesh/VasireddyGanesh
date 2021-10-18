@@ -1,19 +1,4 @@
-### Hi there 👋
-
-<!--
-**VasireddyGanesh/VasireddyGanesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->### Hi there, I'm [Ganesh](https://github.com/VasireddyGanesh) 👋
+### Hi there, I'm [Ganesh](https://github.com/VasireddyGanesh) 👋
 
 [![linkedin badge](https://img.shields.io/badge/Rachit_tandon-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/vasireddy-ganesh-1a9b09197/)
 [![twitter badge](https://img.shields.io/badge/@Rachit_tandon-30302f?style=flat&logo=twitter)](https://twitter.com/Vasireddyganes5)
@@ -24,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Development projects and hackathons.
 - 💬 Ask me about anything, I'm happy to help!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevrachit" alt="webdevrachit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VasireddyGanesh" alt="VasireddyGanesh" /> </p>
 
 **Languages and Tools:** 
 
