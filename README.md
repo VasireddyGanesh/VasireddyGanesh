@@ -6,7 +6,8 @@
 
 
 - 🔭 I’m currently working on Web development and Android Development projects.
-- 👯 I’m looking to collaborate on Development projects and hackathons.
+- 👯 I’m looking to collaborate on Web , Android Development projects and hackathons.
+- 😀 I'm Curious about building Custom Roms for Android Mobiles .
 - 💬 Ask me about anything, I'm happy to help!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VasireddyGanesh" alt="VasireddyGanesh" /> </p>
